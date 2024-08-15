@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730416647834",
+    "project_id": "bombom-67c81",
+    "storage_bucket": "bombom-67c81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730416647834:android:3658af37b143939e13d923",
+        "android_client_info": {
+          "package_name": "com.bom5.BomBom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuVgHHQtSySZ32X3mGjWDsKlo4dyRNjzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
